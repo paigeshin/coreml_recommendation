@@ -5,7 +5,7 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
 ### CreateML
 
 1. Create Recommendation
-2. Prepare CSV File
+2. Prepare CSV File (Two Colums, one for user, one for item)
 3. Create mlmodel
    - User => Group
    - Item => Actual Item
